@@ -1,13 +1,23 @@
-## Stochastic Simulation Assignment1
-**The code was done by:**
+# Stochastic Simulation Assignment1
+This project focuses on computing the area of the Mandelbrot set using various Monte Carlo integration methods to estimate the convergence behavior of the calculated area. This is the code part of our report.
 
-Mingjie Li 14823551 
+### Usage
+Run all the cells in the  Jupyter notebook file `Li_14823551_Liu_14821672_Cao_15056910_assignment1.ipynb` and get the visual results.
 
-Lingyuan Liu 14821672 
+### Dependencies
+- Python
+- Numpy
+- Matplotlib
 
-Qiziyi Cao 15056910 
+### License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-Task Distribution: 
+### Authors
+- Mingjie Li 14823551 
+- Lingyuan Liu 14821672 
+- Qiziyi Cao 15056910 
+
+### Task Distribution: 
 ```
 ~$ git fame --cost hour,month --loc ins
 Processing: 100%|█████████████████████████████████| 1/1 [00:00<00:00,  2.61repo/s]
